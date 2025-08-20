@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+
+# Artifacts
+mlruns/
+models/
+*.joblib
+*.pkl
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Tests
+.coverage
+pytest_cache/
